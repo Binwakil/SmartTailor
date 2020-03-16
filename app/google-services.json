@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "332658993732",
+    "firebase_url": "https://smartstore-ca8a4.firebaseio.com",
+    "project_id": "smartstore-ca8a4",
+    "storage_bucket": "smartstore-ca8a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332658993732:android:57738ac4d986f534f7ea11",
+        "android_client_info": {
+          "package_name": "com.wakili.qr_codegeneratorandscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332658993732-iqoqibvnejtqec890ccorrhfa77ip88c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wakili.qr_codegeneratorandscanner",
+            "certificate_hash": "0cd7dbb03f34b1319740af853534a79de0fed359"
+          }
+        },
+        {
+          "client_id": "332658993732-3s08uj8vevck38bfpape5j44g8q5j1ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkZurqmpyUzjVvoxO6Vp0buLkcqki2Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332658993732-3s08uj8vevck38bfpape5j44g8q5j1ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332658993732:android:8176d01af3274ef1f7ea11",
+        "android_client_info": {
+          "package_name": "com.wakili.smartstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332658993732-4g4l20geufjrf6f6ml2u2423e29esgi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wakili.smartstore",
+            "certificate_hash": "0cd7dbb03f34b1319740af853534a79de0fed359"
+          }
+        },
+        {
+          "client_id": "332658993732-3s08uj8vevck38bfpape5j44g8q5j1ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkZurqmpyUzjVvoxO6Vp0buLkcqki2Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332658993732-3s08uj8vevck38bfpape5j44g8q5j1ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332658993732:android:022714363db4b8b0f7ea11",
+        "android_client_info": {
+          "package_name": "com.wakili.smarttailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332658993732-3s08uj8vevck38bfpape5j44g8q5j1ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkZurqmpyUzjVvoxO6Vp0buLkcqki2Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332658993732-3s08uj8vevck38bfpape5j44g8q5j1ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

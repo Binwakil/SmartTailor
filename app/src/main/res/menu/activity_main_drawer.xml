@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_styles"
+            android:icon="@drawable/ic_styles"
+            android:title="Styles" />
+        <item
+            android:id="@+id/nav_customer"
+            android:icon="@drawable/ic_customers"
+            android:title="My Cusomers" />
+
+        <item
+            android:id="@+id/nav_addcustomer"
+            android:icon="@drawable/ic_add_person"
+            android:title="New Customer" />
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+            android:title="Oder" />
+        <item
+            android:id="@+id/nav_finished"
+            android:icon="@drawable/ic_waiting_customer"
+            android:title="Completed Tasks" />
+    </group>
+
+    <item android:title="User">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_clear"
+                android:title="Login As" />
+            <item
+                android:id="@+id/nav_Signout"
+                android:icon="@drawable/ic_add_white_24dp"
+                android:title="Signout" />
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Syncronize" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_cancel_black_24dp"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+
+</menu>
